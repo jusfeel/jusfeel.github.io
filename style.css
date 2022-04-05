@@ -1,0 +1,30 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-size: 16px;
+    font-family: arial, sans-serif;
+}
+
+a {
+    color: lightskyblue;
+    text-decoration: none;
+}
+
+.main-content {
+    height: 100%;
+}
+
+.homepage {
+    display: grid;
+    place-content: center;
+}
+
+footer {
+    background-color: #F5F5F5;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    margin-top: -40px;
+}
